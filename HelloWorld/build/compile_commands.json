@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zeelb/Documents/c++/dev/HelloWorld/build",
+  "command": "/usr/bin/c++  -Wall -std=c++14 -g -o CMakeFiles/HelloWorld.dir/src/Log.cpp.o -c /home/zeelb/Documents/c++/dev/HelloWorld/src/Log.cpp",
+  "file": "/home/zeelb/Documents/c++/dev/HelloWorld/src/Log.cpp"
+},
+{
+  "directory": "/home/zeelb/Documents/c++/dev/HelloWorld/build",
+  "command": "/usr/bin/c++  -Wall -std=c++14 -g -o CMakeFiles/HelloWorld.dir/src/Main.cpp.o -c /home/zeelb/Documents/c++/dev/HelloWorld/src/Main.cpp",
+  "file": "/home/zeelb/Documents/c++/dev/HelloWorld/src/Main.cpp"
+}
+]
